@@ -1,6 +1,6 @@
 info:
   from: "config-server"
-  msg: "这是从 GitHub Config Server 动态加载的配置！"
+  msg: "这是从 GitHub Config Server 动态加载的配置！成功了！！！"
 eureka:
   client:
     service-url:
